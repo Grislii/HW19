@@ -1,0 +1,10 @@
+PWD_HASH_SALT = b'secret here'
+PWD_HASH_ITERATIONS = 100_000
+JWT_SECRET = "S@Cr@t"
+JWT_ALGO = "HS256"
+
+# {
+#   "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJyb2xlIjoidGVzdCIsImV4cCI6MTY1ODQwODgzNX0.qTG8jTW-jhKQ098aX7O7dHyjmouPBO5E4HEaaDNtftI",
+#   "refresh_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJyb2xlIjoidGVzdCIsImV4cCI6MTY2MDk5OTAzNX0.ansKp6nOIRFIS2xI75tpjQWkdlq69o57DzbLoQ1EJwY"
+#
+# }
